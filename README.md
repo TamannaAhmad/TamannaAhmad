@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+### I am studying Artificial Intelligence and Data Science ⚡
+
 
 <!--
 **TamannaAhmad/TamannaAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
