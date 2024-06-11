@@ -14,7 +14,8 @@ I am a second-year engineering student, studying Artificial Intelligence and Dat
 
 - **Programming Languages**: C, Python, Kotlin (basics).
 - **Data Analysis**: Analysis of Variance, Data Analytics, Statistics. 
-- **Tools**: Jupyter Notebook, Git.
+- **Tools**: Jupyter Notebook, Git, VSCode.
+- **Other**: HTML, CSS.
 
 ## Goals
 
